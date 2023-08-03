@@ -1,2 +1,3 @@
-# PrepCurse-Henry
-Este es un repositorio de prueba del modulo 2 de Henry
+Diego Gomez
+Esta es una prueba de como puedo cambiar la descripcion inicial de el reposotorio que cree en github desde mi computadora
+
